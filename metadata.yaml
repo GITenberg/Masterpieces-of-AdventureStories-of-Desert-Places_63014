@@ -1,5 +1,8 @@
 _repo: Masterpieces-of-AdventureStories-of-Desert-Places_63014
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63014-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Various
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51974
     wikipedia: http://www.gutenberg.org/ebooks/author/25626
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63014#Masterpieces-of-AdventureStories-of-Desert-Places
 gutenberg_issued: '2020-08-23'
 gutenberg_type: Text
 identifiers:
