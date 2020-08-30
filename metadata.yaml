@@ -1,0 +1,28 @@
+_repo: Masterpieces-of-AdventureStories-of-Desert-Places_63014
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Braddy, Nella
+    birthdate: 1894
+    deathdate: 1973
+    gutenberg_agent_id: '51974'
+    url: http://www.gutenberg.org/2009/agents/51974
+    wikipedia: http://www.gutenberg.org/ebooks/author/25626
+description: ''
+gutenberg_issued: '2020-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Masterpieces of Adventure—Stories of Desert Places
+url: http://www.gutenberg.org/ebooks/63014
